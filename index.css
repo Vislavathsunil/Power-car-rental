@@ -1,0 +1,490 @@
+ 
+
+
+/*	Header-section-Search-for-car-div 	*/
+#Header-section-Search-for-car-div{
+
+	    	
+    		padding-bottom: 140px;
+		background-image: url("Car-Background.jpeg");
+		background-repeat:no-repeat;
+		background-size: cover;
+}
+
+
+
+
+
+/*  navbar1 styling*/
+
+#navbar1{
+
+		display:flex;
+		position:relative;
+		background-color:  #87bddecc;
+		border-radius:5px;
+		
+
+
+
+
+}
+
+
+/*header1 styling*/
+
+#header1{
+		margin:25px 10px 10px 30px;
+		font-size:40px;
+		font-family: sans-serif;
+		 
+		
+
+
+}
+
+
+/*unorderlist1 styling*/
+
+#unorderlist1{
+		list-style:none;
+		display:flex;
+		font-size:25px;
+		text-decoration: none;
+		 
+		position:absolute;
+		top:10px;
+		right:20px;
+		
+
+		
+
+
+
+}
+
+
+/*list1 styling*/
+
+.list1{
+		
+		margin:0px 40px 0px 0px;
+		
+
+}
+/* list1 text-decoration*/
+a{
+		text-decoration:none;
+}
+
+/*Header section completed */
+
+
+
+
+
+/*  Main-Search-From-Div  */
+
+#Main-Search-From-Div{
+
+		background-color:  #8d6e6378;
+		border:4px solid;
+		border-radius: 20px;
+		margin-top:80px;
+       	        width: 1025px;
+	        height: 280px;
+		 padding:35px;
+		 margin-bottom: 40px;
+
+}
+
+ 
+
+/*location input styling*/
+
+.location{
+
+		border:3px solid;
+		border-radius:15px;
+		
+		margin:30px ;
+		margin-bottom:2px;
+		padding:8px;
+
+
+}
+
+.location{
+
+		width:450px;
+		height:50px;
+}
+
+
+ 
+		
+
+
+ 
+
+
+/* Pick-up-section styling */
+
+#PickUp-Date-Time{
+
+	position: relative;
+    left: -257px;
+    top: 24px;}
+
+.Pick-up-section{
+
+		width:200px;
+		height:25px;
+		margin:15px;
+		 
+		
+
+
+}
+
+.Pick-up-section{
+
+		border:2px solid black;
+		border-radius:8px;
+
+
+
+}
+
+
+/* Drop-off-section styling */
+
+.Drop-off-section{
+
+		width: 195px;
+    	height: 25px;
+    	margin: 20px;
+
+
+}
+
+/* 2 */
+
+.Drop-off-section{
+
+		 border:2px solid black;
+		 border-radius:8px;
+
+
+}
+ 
+
+#DropOff-Date-Time{
+
+     position: relative;
+    left: 259px;
+    top: -40px;
+
+}
+
+#Form-Search-Button {
+    position: relative;
+    top: 0px;
+    width: 190px;
+    height: 45px;
+    font-size: 25px;
+    background-color: #ffa900;
+   border-radius:15px; 
+   color: white;
+ cursor:pointer;
+
+
+}
+ 
+
+/* Easy Car Booking Section Styling*/
+
+/*	Easy-Car-Booking-div	*/
+
+#Easy-Car-Booking-div{
+
+	    background-color: #dce2f57a ;
+	    margin-top: -90px;
+
+}
+
+#Easy-Car-Booking-header-div{
+   
+	 border:  none;
+    	margin-top: 90px;
+    	width: 1195px;
+    	text-align: center;
+	font-size:22px;
+
+}
+
+#Easy-Car-Booking-header{
+
+		padding-top: 35px;
+}
+
+/* Easy-Car-Booking-Content-div */
+
+#Easy-Car-Booking-Content-div{
+
+	 display: flex;
+	 justify-content: space-around;
+    	 border: none;
+    	 padding: 10px;
+	padding-bottom: 45px;
+	
+	
+
+}
+
+.Easy-Car-Booking-Content-Items-div{
+
+		border:2px solid;
+		border-radius:35px;
+		width:370px;
+		text-align:center;
+}
+
+.Easy-Car-Booking-Content-Images{
+
+		padding-top: 10px;
+
+}
+
+
+.Easy-Car-Booking-para{
+
+   font-size: 12px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 10px;
+}
+
+
+
+
+
+
+
+
+/* Top-Destinations-Photos */
+
+/* Main-Top-Destinations-Div */
+
+#Main-Top-Destinations-Div{
+
+		margin-top:0px;
+		padding-top: 30px;
+    		background-color: ;
+	    	padding-bottom: 55px;
+}
+
+/* All-Top-Destination-images-div */
+
+#All-Top-Destination-images-div{
+
+		display:grid;
+		justify-content: ;
+		grid-template-columns: auto auto auto;
+		row-gap:45px;
+}
+
+
+/* Top-Destinations-Images */
+
+.Top-Destinations-Images{
+
+	 width:400px;
+	height:300px;
+	border-radius:25px;
+}
+
+
+/* Car Collection Section   */
+
+
+/*  Main-div-for-car-collections Styling */
+
+#Main-div-for-car-collections{
+
+	margin-top: 0px;
+  	  background-color: ;
+       padding-top: 20px;
+       padding-bottom: 50px;
+}
+
+
+
+/* All-Car-Collections-div Styling  */
+
+#All-Car-Collections-div{
+
+	display:grid;
+	grid-template-columns: auto auto auto ;	
+	justify-content: space-around; 
+	row-gap:45px;
+	margin-top:50px;
+}
+
+
+ .Car-Collection{
+
+        background-color: #dce3f5bf;
+	border:3px solid;
+	border-radius:15px;
+	width:450px;
+	height:340px;
+}
+ 
+
+ 
+/* Car-image-Name-div Styling*/
+
+.Car-image-Name-div{
+
+	margin-top: 32px;		
+
+}
+
+
+/*  Car-Collection-images-in-index */
+
+.Car-images-in-index{
+
+		width:410px;
+		height:225px;
+
+}
+
+.Car-Name-in-index{
+
+	font-size: 25px;
+	font-family: sans-serif;
+}
+
+
+/* Call for Car section styling	*/
+
+
+/ * Main-div-for-booking-car-calling */
+
+#Main-div-for-booking-car-calling{
+	background-color: #f2f28045
+	 
+}
+
+#Call-booking-header-div{
+	  padding-top: 6px;
+
+}
+
+.Call-booking-header{
+
+	font-size: 20px;
+	 
+	     
+}
+
+#number-image-div{
+
+	display: inline-flex;
+	 
+ 	padding-bottom: 40px;
+	padding-left: 70px;
+}
+
+.phone-number-header{
+
+	    font-size: 42px;
+	    letter-spacing: 3px;
+	   
+}
+.call-us-image{
+
+	width:120px;
+	padding-left: 30px;
+}
+
+
+/*	Footer Section Styling	*/
+
+
+#Main-footer-div{
+
+	background-color: beige;
+	height:275px;
+}
+
+#Main-Footer{
+
+	    display: flex;
+	     justify-content: space-around;
+	     padding-top: 10px;
+    	     padding-bottom: 32px;
+}
+
+.Our-Locations-header-div{
+
+	padding-left: 38px;
+}
+
+
+#Our-Location{
+
+	list-style:none;
+}
+
+.Our-Location-list{
+
+	padding-top:5px;
+}
+
+
+.Contact-us-image-name{
+	
+	padding-top: 10px;
+}
+.ContactUs-Images{
+
+	width:20px;
+	height:20px;
+}
+
+ 
+
+
+
+/* News Letter Section CSS*/
+.News-letter-input{
+
+	border: 2px solid;
+	border-radius:5px;
+       height: 32px;
+      padding-left: 10px;
+}
+
+.SignUp-button{
+
+	margin-top: 10px;
+    	width: 115px;
+ 	height: 30px;
+   	font-weight:bold; 
+	border-radius:4px;
+}
+
+#Socail-Media-Logos{
+	
+	margin-top:18px;
+}
+
+.Social-Media-images{
+
+	width: 37px;
+	height: 33px;
+}
+ 

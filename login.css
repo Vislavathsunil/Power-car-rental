@@ -1,0 +1,193 @@
+/* Login Page */
+
+body{
+
+	padding-bottom:900px;
+	background-image: url("bugatti.jpeg");
+	background-repeat: no-repeat;
+	background-sizer: cover;
+
+	 
+
+
+}
+
+/*  navbar1 styling*/
+
+#navbar1{
+
+		display:flex;
+		position:relative;
+		background-color:#87bddecc;
+		border-radius:5px;
+		
+
+
+
+
+}
+
+
+/*header1 styling*/
+
+#header1{
+		margin:25px 10px 10px 30px;
+		font-size:40px;
+		font-family: sans-serif;
+		 
+		
+
+
+}
+
+
+/*unorderlist1 styling*/
+
+#unorderlist1{
+		list-style:none;
+		display:flex;
+		font-size:25px;
+		text-decoration: none;
+		 
+		position:absolute;
+		top:10px;
+		right:20px;
+}
+
+
+/*list1 styling*/
+
+.list1{
+		
+		margin:0px 40px 0px 0px;
+}
+
+.list1:hover{
+	color:white;
+}
+
+/* list1 text-decoration*/
+
+a{
+		text-decoration:none;
+}
+
+ 
+
+/*Header section completed */
+
+
+
+
+/*	Login Form Styling*/
+
+/* login-div1  */
+
+#login-form{
+
+		position: absolute;
+		top:250px;
+		left:530px;
+
+}
+
+#login-form{
+
+	    border: solid;
+	   border-color:#ffc000e8;
+	    border-top-left-radius:50px;
+	    border-bottom-right-radius:50px;
+           width: 350px;
+           height: 465px;
+          padding: 10px 10px 10px 120px;
+	 background-color:#fae6f0ad;
+	
+
+}
+
+#login-header{
+
+		 margin: 10px 10px 40px 80px;
+        font-size: 30px;
+
+}
+
+.input{
+
+	    border: 3px solid;
+        padding: 2px 2px 2px 15px;
+        width: 250px;
+        height: 25px;
+        border-radius: 10px;
+
+
+}
+
+/* forgot-pass */
+
+#forgot-pass{
+
+		float: right;
+     	margin-right: 80px;
+		margin-top:6px;
+
+}
+
+
+
+#login-button{
+
+       margin: 0px 0px 0px 0px;
+		
+       width: 270px;
+       height: 38px;
+       font-size: large;
+       border: 3px solid;
+       border-radius: 5px;
+       background-color: salmon;
+	font-weight:bold;
+	cursor:pointer;
+
+
+}
+
+#dont-account{
+
+		margin-left:50px;
+		font-size:15px;
+		    padding-top: 12px;
+
+}
+
+/* OR word styling */
+
+#or-at-end{
+
+		margin-left:120px;
+		    margin-top: -12px;
+
+}
+
+
+/* 	Login-form-SocialMedia-Images-div 	*/
+
+#Login-form-SocialMedia-Images-div{
+
+    padding-top: 10px;
+    padding-left: 66px;
+
+}
+
+
+
+/*	Login-form-socialmedia-images	*/
+
+.Login-form-socialmedia-images{
+
+	width: 30px;
+	height: 25px;
+	padding-left: 8px;
+}
+
+      
+	    

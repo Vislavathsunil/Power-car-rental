@@ -1,0 +1,278 @@
+ /*  navbar1 styling*/
+
+#navbar1{
+
+		display:flex;
+		position:relative;
+		background-color:#87bddecc;
+		border-radius:5px;
+		
+
+
+
+
+}
+
+
+/*header1 styling*/
+
+#header1{
+		margin:25px 10px 10px 30px;
+		font-size:40px;
+		font-family:sans-serif;
+		 
+		
+
+
+}
+
+
+/*unorderlist1 styling*/
+
+#unorderlist1{
+		list-style:none;
+		display:flex;
+		font-size:25px;
+		text-decoration: none;
+		 
+		position:absolute;
+		top:10px;
+		right:20px;
+		
+
+		
+
+
+
+}
+
+
+/*list1 styling*/
+
+.list1{
+		
+		margin:0px 40px 0px 0px;
+		
+
+}
+/* list1 text-decoration*/
+a{
+		text-decoration:none;
+}
+
+ 
+
+
+#welcome-header-div{
+
+		text-align:center;
+		padding:40px;
+
+
+
+
+
+}
+
+#AboutUs-header-para-img-div{
+		
+		display:flex;
+
+}
+
+
+#aboutus-header-para-div{
+
+	border: none;
+    width: 710px;
+    height: 365px;
+    margin-top: 10px;
+    margin-left: 25px;
+
+
+}
+
+#aboutus-header{
+
+	padding-left:252px;
+    margin-top: 20px;
+    font-size: 25px
+
+}
+
+#aboutus-para-div{
+
+	padding-top: 1px;
+    padding-left: 20px;
+    padding-right: 35px;
+    font-size: 18px;
+	line-height:25px
+
+
+}
+
+#aboutus-image-div{
+
+
+	borderL:none;
+    height: 350px;
+    margin-left: 112px;
+    margin-top: 70px;
+
+}
+
+#aboutus-image{
+
+	padding-top:20px
+
+}
+
+#aboutus-para3-div{
+
+    border: none;
+    margin: 10px;
+}
+
+#aboutus-para3{
+
+	padding: 10px;
+    font-size: 18px;
+    line-height: 25px;
+
+
+}
+
+
+#Rental-Location-In-India-header{
+
+	padding: 5px;
+    border: none;
+    margin-top: 35px;
+    margin-left: 15px;
+
+}
+
+#Rental-Location-para{
+
+	margin-left: 10px;
+    border: none;
+    width: 1050px;
+    font-size: 18px;
+    line-height: 25px;
+    padding-left: 9px;
+
+}
+
+.locations-list{
+
+	list-style:none;
+	line-height:20px;
+	color:blue;
+
+
+
+}
+
+#why-associate-header-para{
+
+		border:none
+		margin-top:25px;
+
+}
+
+#why-associate-header{
+
+		text-align:center
+
+}
+
+#why-associate-para{
+
+		text-align:center;
+		font-size:18px;
+}
+
+
+
+
+/*	Footer Section Styling	*/
+
+
+#Main-footer-div{
+
+	background-color: beige;
+	height:275px;
+	margin-top:55px;
+}
+
+#Main-Footer{
+
+	    display: flex;
+	     justify-content: space-around;
+	     padding-top: 10px;
+    	     padding-bottom: 32px;
+}
+
+.Our-Locations-header-div{
+
+	padding-left: 38px;
+}
+
+
+#Our-Location{
+
+	list-style:none;
+}
+
+.Our-Location-list{
+
+	padding-top:5px;
+}
+
+
+.Contact-us-image-name{
+	
+	padding-top: 10px;
+}
+.ContactUs-Images{
+
+	width:20px;
+	height:20px;
+}
+
+ 
+
+
+
+/* News Letter Section CSS*/
+.News-letter-input{
+
+	border: 2px solid;
+	border-radius: 5px;
+        width: 185px;
+ 	height: 32px;
+	padding-left: 10px;
+}
+
+.SignUp-button{
+
+	margin-top: 10px;
+    	width: 115px;
+ 	height: 30px;
+   	font-weight:bold; 
+	border-radius: 4px;
+}
+
+#Socail-Media-Logos{
+	
+	margin-top:18px;
+}
+
+.Social-Media-images{
+
+	width: 37px;
+	height: 33px;
+}
+
+
+
